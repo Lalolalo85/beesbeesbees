@@ -1,3 +1,6 @@
+
+
+
 describe('HoneyMakerBee class functionality', function() {
 
   verifyClass(HoneyMakerBee).followsPattern('pseudoclassical', {}, false);
